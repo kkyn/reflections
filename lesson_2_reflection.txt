@@ -45,3 +45,11 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+	+ automatic merging -- run the risk of being logically incorrect.
+						-- quickly 'merge' the codes.
+						-- reduce human errors.
+						-- still need to humanly decide what are relevant codes.
+
+	+ do merges manually -- very prone to error.
+						-- very slow process.
