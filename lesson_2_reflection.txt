@@ -18,13 +18,30 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	+ Add only files that effect 1 logical change.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	+ Branches is helpful ---
+		(1) when I move to explore other solutions/features from the 'master' branch.
+		(2) correct a bug.
+		(3) to manage logical changes for each branch.
+
 How do the diagrams help you visualize the branch structure?
+
+	+ Help to merge branches.
+	+ help to know where a branch got started.
+	+ Help to know where are the node is unreachable.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+	+ The modifications are integrated into the master branch.
+	+ The merged commits are integrated into the main branch(master)
+	   according to the time it was committed.
+	+ After merging, remove the 'branch', basically means
+	   remove the label name associated with the commit-Is but 'not' the commit.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
