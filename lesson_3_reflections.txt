@@ -7,3 +7,12 @@ automatically stay up-to-date with your remote repository?
 
 	+ In a collaborative mode, whatever the size of project,
 	   it allow local-repository-user to control his/her master version.
+	   
+Describe the differences between fork, clones and branches.
+When would you use one instead of another ?
+
+	+ Fork is the term used for 'clone' within GitHub environment.
+	  Clone is the term used to refer 'cloning' between
+			(1) GitHub --> PC/Laptop
+			(2) PC/Laptop --> PC/Laptop.
+	  Branches is the term used to refer branching within a repository.
