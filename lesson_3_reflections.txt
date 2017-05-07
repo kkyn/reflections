@@ -16,3 +16,9 @@ When would you use one instead of another ?
 			(1) GitHub --> PC/Laptop
 			(2) PC/Laptop --> PC/Laptop.
 	  Branches is the term used to refer branching within a repository.
+	  
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	+ Can work off-line with the latest remote copy.
+	+ Can see the differences between what is on remote and locally.
+	+ Can merge the changes with the local version and the latest remote version.
